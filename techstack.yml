@@ -1,0 +1,1279 @@
+repo_name: ashellwig/zipline
+report_id: 4b56279d78875033f5eccad2a8881c54
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T04:27:21+00:00'
+requested_by: richafrank
+provider: github
+branch: master
+detected_tools_count: 86
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2013-05-02 20:48:53.000000000 Z
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Andrew Daniels
+  last_updated_on: 2017-06-20 20:46:06.000000000 Z
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-04-23 01:12:12.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: fawce
+  last_updated_on: 2012-02-08 04:13:41.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Freddie Vargus
+  last_updated_on: 2017-03-06 18:00:56.000000000 Z
+- name: Tornado
+  description: A Python web framework and asynchronous networking library, originally
+    developed at FriendFeed
+  website_url: http://www.tornadoweb.org/
+  version: 4.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1002/tornado.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-23 18:51:25.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 1.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: llllllllll
+  last_updated_on: 2015-08-06 15:12:39.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_talib.txt
+  detection_source: etc/requirements_talib.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-03-22 23:25:18.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: fawce
+  last_updated_on: 2012-02-08 04:13:41.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2017-12-15 21:55:37.000000000 Z
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/Vagrantfile
+  detection_source: Vagrantfile
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-06-28 12:34:35.000000000 Z
+- name: flake8
+  description: Tool for style guide enforcement
+  website_url: https://github.com/PyCQA/flake8
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2017-05-15 14:55:45.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: fawce
+  last_updated_on: 2012-02-08 04:13:41.000000000 Z
+- name: pip
+  description: A package installer for Python
+  website_url: https://pypi.org/project/pip/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Stephen Diehl
+  last_updated_on: 2012-06-12 11:38:18.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.11.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Stephen Diehl
+  last_updated_on: 2012-06-12 11:38:18.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 0.17.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Stephen Diehl
+  last_updated_on: 2012-06-12 11:38:18.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ashellwig/zipline
+  detection_source: Repo Metadata
+- name: Sphinx
+  description: Open source full text search server, designed from the ground up with
+    performance, relevance (aka search quality), and integration simplicity in mind
+  website_url: http://sphinxsearch.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search Engines
+  image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2016-01-24 00:13:58.000000000 Z
+- name: Werkzeug
+  website_url: https://palletsprojects.com/p/werkzeug/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/11076/iwoLyNPI_normal.jpg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: docutils
+  description: "http://t.co/lH6rcPxBja Service Outage and other informational alerts.\r\n\r\nFor
+    support, see ticket/IRC/email information on http://t.co/nE5akSwLqM"
+  website_url: http://docutils.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-10 13:26:44.000000000 Z
+- name: Pygments
+  description: Pygments is a syntax highlighting package written in Python
+  package_url: https://pypi.org/project/Pygments
+  version: 2.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19858/default_4d761b2257a1435539d6dc92346974d9f1d55c70.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-10 14:29:18.000000000 Z
+  vulnerabilities:
+  - name: Command Injection in Pygments
+    cve_id: CVE-2015-8557
+    cve_url: https://github.com/advisories/GHSA-fff8-4w9p-7v76
+    detected_date: Jun 4
+    severity: critical
+    first_patched: '2.1'
+  - name: Pygments vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2021-27291
+    cve_url: https://github.com/advisories/GHSA-pq64-v7f5-gqh8
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.7.4
+  - name: Infinite Loop in Pygments
+    cve_id: CVE-2021-20270
+    cve_url: https://github.com/advisories/GHSA-9w8r-397f-prfh
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.7.4
+  - name: Pygments vulnerable to ReDoS
+    cve_id: CVE-2022-40896
+    cve_url: https://github.com/advisories/GHSA-mrwq-x4v8-fh7p
+    detected_date: Jul 21
+    severity: moderate
+    first_patched: 2.15.0
+- name: dask
+  description: Parallel PyData with Task Scheduling
+  package_url: https://pypi.org/project/dask
+  version: 0.13.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20131/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in dask
+    cve_id: CVE-2021-42343
+    cve_url: https://github.com/advisories/GHSA-j8fq-86c5-5v2r
+    detected_date: Oct 28
+    severity: critical
+    first_patched: 2021.10.0
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/project/Werkzeug
+  version: 0.10.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+  vulnerabilities:
+  - name: Werkzeug debugger vulnerable to remote execution when interacting with attacker
+      controlled domain
+    cve_id: CVE-2024-34069
+    cve_url: https://github.com/advisories/GHSA-2g68-c3qc-8985
+    detected_date: May 7
+    severity: high
+    first_patched: 3.0.3
+  - name: High resource usage when parsing multipart form data with many fields
+    cve_id: CVE-2023-25577
+    cve_url: https://github.com/advisories/GHSA-xg9f-g7g7-2323
+    detected_date: Feb 16
+    severity: high
+    first_patched: 2.2.3
+  - name: Pallets Werkzeug cross-site scripting vulnerability
+    cve_id: CVE-2016-10516
+    cve_url: https://github.com/advisories/GHSA-h2fp-xgx6-xh6f
+    detected_date: Jun 18
+    severity: moderate
+    first_patched: 0.11.11
+  - name: Incorrect parsing of nameless cookies leads to __Host- cookies bypass
+    cve_id: CVE-2023-23934
+    cve_url: https://github.com/advisories/GHSA-px8h-6qxv-m22q
+    detected_date: Feb 16
+    severity: low
+    first_patched: 2.2.3
+- name: certifi
+  description: Python package for providing Mozilla's CA Bundle
+  package_url: https://pypi.org/project/certifi
+  version: 2015.4.28
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-05-13 10:04:53.000000000 Z
+  vulnerabilities:
+  - name: Removal of e-Tugra root certificate
+    cve_id: CVE-2023-37920
+    cve_url: https://github.com/advisories/GHSA-xqr8-7jwr-rhp7
+    detected_date: Jul 26
+    severity: high
+    first_patched: 2023.7.22
+- name: psutil
+  description: Cross-platform lib for process and system monitoring in Python
+  package_url: https://pypi.org/project/psutil
+  version: 4.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19851/default_ac77a75c05474acf9389d56b1f5cc8241af4c384.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+  vulnerabilities:
+  - name: Double Free in psutil
+    cve_id: CVE-2019-18874
+    cve_url: https://github.com/advisories/GHSA-qfc5-mcwq-26q8
+    detected_date: Aug 22
+    severity: high
+    first_patched: 5.6.6
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.9.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+  vulnerabilities:
+  - name: Insufficiently Protected Credentials in Requests
+    cve_id: CVE-2018-18074
+    cve_url: https://github.com/advisories/GHSA-x84v-xcm2-53pg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.20.0
+  - name: Requests `Session` object does not verify requests after making first request
+      with verify=False
+    cve_id: CVE-2024-35195
+    cve_url: https://github.com/advisories/GHSA-9wx4-h78v-vm56
+    detected_date: May 21
+    severity: moderate
+    first_patched: 2.32.0
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: '18.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2017-01-13 20:24:26.000000000 Z
+  vulnerabilities:
+  - name: pypa/setuptools vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-40897
+    cve_url: https://github.com/advisories/GHSA-r9hx-vwmv-q579
+    detected_date: Dec 28
+    severity: high
+    first_patched: 65.5.1
+- name: mistune
+  description: The fastest markdown parser in pure Python
+  package_url: https://pypi.org/project/mistune
+  version: '0.7'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20077/default_1b6ee2407cdedc6ad8878ee707164428880e399a.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-23 18:51:25.000000000 Z
+  vulnerabilities:
+  - name: Cross-site Scripting in Mistune
+    cve_id: CVE-2017-15612
+    cve_url: https://github.com/advisories/GHSA-hpv5-v8g5-c864
+    detected_date: Sep 9
+    severity: moderate
+    first_patched: '0.8'
+  - name: mistune Cross-site scripting (XSS) vulnerability
+    cve_id: CVE-2017-16876
+    cve_url: https://github.com/advisories/GHSA-98gj-wwxm-cj3h
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.8.1
+- name: Cycler
+  description: Composable style cycles
+  package_url: https://pypi.org/project/Cycler
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Freddie Vargus
+  last_updated_on: 2017-03-06 18:00:56.000000000 Z
+- name: Cython
+  description: The Cython compiler for writing C extensions for the Python language
+  package_url: https://pypi.org/project/Cython
+  version: 0.25.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19929/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Freddie Vargus
+  last_updated_on: 2017-03-06 18:00:56.000000000 Z
+- name: Flask-Cors
+  description: A Flask extension adding a decorator for CORS support
+  package_url: https://pypi.org/project/Flask-Cors
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19977/default_29192d68c64b1a3be468b1b73c2a129fc390c4f4.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: Logbook
+  description: A logging replacement for Python
+  package_url: https://pypi.org/project/Logbook
+  version: 0.12.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20104/default_2ba12a7662d0c37cf453a179c5f8f0558d760422.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2016-02-16 17:54:19.000000000 Z
+- name: Mako
+  description: A super-fast templating language that borrows the best ideas from the
+    existing templating languages
+  package_url: https://pypi.org/project/Mako
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19969/default_1c8812e05cf754e8f654b8d86b3f025827f5bfb6.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/project/MarkupSafe
+  version: '0.23'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+- name: TA-Lib
+  description: Python wrapper for TA-Lib
+  package_url: https://pypi.org/project/TA-Lib
+  version: 0.4.9
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_talib.txt
+  detection_source: etc/requirements_talib.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-03-22 23:25:18.000000000 Z
+- name: alabaster
+  description: A configurable sidebar-enabled Sphinx theme
+  package_url: https://pypi.org/project/alabaster
+  version: 0.7.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20437/default_ddb692c01567b84e62be2bdf1939b66f9ea202da.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-10 13:26:44.000000000 Z
+- name: alembic
+  description: A database migration tool for SQLAlchemy
+  package_url: https://pypi.org/project/alembic
+  version: 0.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19961/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: 4.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2015-05-07 17:53:37.000000000 Z
+- name: cloudpickle
+  description: Extended pickling support for Python objects
+  package_url: https://pypi.org/project/cloudpickle
+  version: 0.2.1
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20066/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: configparser
+  description: Updated configparser from Python 3.7 for Python 2.6+
+  package_url: https://pypi.org/project/configparser
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19879/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-06-08 20:26:45.000000000 Z
+- name: contextlib2
+  description: Backports and enhancements for the contextlib module
+  package_url: https://pypi.org/project/contextlib2
+  version: 0.4.0
+  license: psfrag
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20070/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-04-04 17:40:58.000000000 Z
+- name: coverage
+  description: Code coverage measurement for Python
+  package_url: https://pypi.org/project/coverage
+  version: 4.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19904/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2016-02-26 19:50:38.000000000 Z
+- name: cytoolz
+  description: 'Cython implementation of Toolz: High performance functional utilities'
+  package_url: https://pypi.org/project/cytoolz
+  version: 0.8.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20287/default_f4d4a579a1fa1de2789e2ae83a74ca7e8dff6982.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2017-01-13 20:24:26.000000000 Z
+- name: decorator
+  description: Decorators for Humans
+  package_url: https://pypi.org/project/decorator
+  version: 4.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19911/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-02-12 22:00:45.000000000 Z
+- name: docopt
+  description: Pythonic argument parser, that will make you smile
+  package_url: https://pypi.org/project/docopt
+  version: 0.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19916/default_0bcdf4801fb769eac80e668560a1012afd8a336d.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Thomas Wiecki
+  last_updated_on: 2014-10-20 15:15:23.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: '0.12'
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-10 13:26:44.000000000 Z
+- name: funcsigs
+  description: Python function signatures from PEP362 for Python 2.6
+  package_url: https://pypi.org/project/funcsigs
+  version: 1.0.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20177/default_b59452f5365a0e677c38da18021b9d6569ac0da7.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-08 18:36:51.000000000 Z
+- name: futures
+  description: Backport of the concurrent.futures package from Python 3
+  package_url: https://pypi.org/project/futures
+  version: 3.0.5
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19885/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2016-02-27 16:46:51.000000000 Z
+- name: intervaltree
+  description: Editable interval tree data structure for Python 2 and 3
+  package_url: https://pypi.org/project/intervaltree
+  version: 2.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20298/default_00525766b5d1b7a358cc1912c2d8907cee4c2347.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-04-04 17:40:58.000000000 Z
+- name: itsdangerous
+  description: Various helpers to pass data to untrusted environments and back
+  package_url: https://pypi.org/project/itsdangerous
+  version: '0.24'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: locket
+  description: File-based locks for Python for Linux and Windows
+  package_url: https://pypi.org/project/locket
+  version: 0.2.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_blaze.txt
+  detection_source: etc/requirements_blaze.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-02-28 23:43:21.000000000 Z
+- name: mccabe
+  description: McCabe checker, plugin for flake8
+  package_url: https://pypi.org/project/mccabe
+  version: 0.6.0
+  license: Saxpath
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20323/default_cafc15de82628e6c121e1ea9ce941c1410268b49.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2017-05-15 14:55:45.000000000 Z
+- name: mock
+  description: Rolling backport of unittest.mock for all Pythons
+  package_url: https://pypi.org/project/mock
+  version: 2.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19876/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-08 18:36:51.000000000 Z
+- name: multipledispatch
+  description: Multiple dispatch
+  package_url: https://pypi.org/project/multipledispatch
+  version: 0.4.8
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20653/default_4658783a4f70e14bc0c2a151840ea9736539842c.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Joe Jevnik
+  last_updated_on: 2016-03-31 19:26:57.000000000 Z
+- name: networkx
+  description: Python package for creating and manipulating graphs and networks
+  package_url: https://pypi.org/project/networkx
+  version: 1.9.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19877/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-02-12 22:00:45.000000000 Z
+- name: nose
+  description: Nose extends unittest to make testing easier
+  package_url: https://pypi.org/project/nose
+  version: 1.3.7
+  license: LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19887/default_680f9274a97353753534797409b2c06b6bd32266.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2015-08-26 22:39:54.000000000 Z
+- name: numexpr
+  description: Fast numerical expression evaluator for NumPy
+  package_url: https://pypi.org/project/numexpr
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20289/default_bae4ec34e549383af798a405820088989f617ff0.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2017-01-05 20:27:24.000000000 Z
+- name: numpydoc
+  description: Sphinx extension to support docstrings in Numpy format
+  package_url: https://pypi.org/project/numpydoc
+  version: '0.5'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20527/default_01d756fcaf12880a90d14748cc7c26fc0d526e2a.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Thomas Wiecki
+  last_updated_on: 2014-10-20 15:15:23.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 0.18.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+- name: patsy
+  description: A Python package for describing statistical models and for building
+    design matrices
+  package_url: https://pypi.org/project/patsy
+  version: 0.4.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-23 18:51:25.000000000 Z
+- name: pbr
+  description: Python Build Reasonableness
+  package_url: https://pypi.org/project/pbr
+  version: 1.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19861/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: fawce
+  last_updated_on: 2012-02-08 04:13:41.000000000 Z
+- name: pdbpp
+  description: Pdb++, a drop-in replacement for pdb
+  package_url: https://pypi.org/project/pdbpp
+  version: 0.9.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Freddie Vargus
+  last_updated_on: 2017-10-05 14:08:00.000000000 Z
+- name: pycodestyle
+  description: Python style guide checker
+  package_url: https://pypi.org/project/pycodestyle
+  version: 2.3.1
+  license: Saxpath
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20145/default_a55249b25c76872ebbee6b173a63c5fce36136f9.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2017-05-15 14:55:45.000000000 Z
+- name: pyflakes
+  description: Passive checker of Python programs
+  package_url: https://pypi.org/project/pyflakes
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20155/default_00b4278983e5385b6d5b93c4ffc4ef51d53270e9.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2017-05-15 14:55:45.000000000 Z
+- name: pyparsing
+  description: Python parsing module
+  package_url: https://pypi.org/project/pyparsing
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19881/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-06-08 20:26:45.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.4.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Freddie Vargus
+  last_updated_on: 2017-03-06 18:00:56.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2016.4'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Scott Sanderson
+  last_updated_on: 2016-07-13 19:24:36.000000000 Z
+- name: requests-file
+  description: File transport adapter for Requests
+  package_url: https://pypi.org/project/requests-file
+  version: 1.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20788/default_dcde61c1b3c059a49681f0b775a8b73e0d122383.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-07 22:41:46.000000000 Z
+- name: requests-futures
+  description: Asynchronous Python HTTP for Humans
+  package_url: https://pypi.org/project/requests-futures
+  version: 0.9.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20103/default_bd24d3ca620f87100890811f569dec00db930a0f.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2016-04-04 16:34:26.000000000 Z
+- name: responses
+  description: A utility library for mocking out the `requests` Python library
+  package_url: https://pypi.org/project/responses
+  version: 0.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20167/default_7c58f8c011d1676d1d010f43fec5e502e542d0a5.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2016-04-04 16:34:26.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Stephen Diehl
+  last_updated_on: 2012-06-12 11:38:18.000000000 Z
+- name: snowballstemmer
+  description: This package provides 26 stemmers for 25 languages generated from Snowball
+    algorithms
+  package_url: https://pypi.org/project/snowballstemmer
+  version: 1.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20715/default_a485409591fb9b86ee476bab39cb99f343db32a5.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-10 13:26:44.000000000 Z
+- name: sortedcontainers
+  description: Sorted Containers -- Sorted List, Sorted Dict, Sorted Set
+  package_url: https://pypi.org/project/sortedcontainers
+  version: 1.4.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2016-04-04 17:40:58.000000000 Z
+- name: sphinx-rtd-theme
+  description: Read the Docs theme for Sphinx
+  package_url: https://pypi.org/project/sphinx-rtd-theme
+  version: 0.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20198/default_1b766c7727f93da29992cd7a2499f00a0ba7bc2d.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2016-01-24 00:13:58.000000000 Z
+- name: statsmodels
+  description: Statistical computations and models for Python
+  package_url: https://pypi.org/project/statsmodels
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-03-17 19:51:00.000000000 Z
+- name: tables
+  description: Hierarchical datasets for Python
+  package_url: https://pypi.org/project/tables
+  version: 3.3.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2016-12-21 21:05:48.000000000 Z
+- name: termcolor
+  description: ANSII Color formatting for output in terminal
+  package_url: https://pypi.org/project/termcolor
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20014/default_9e735547ab71630330a9e635a78e5cedca9ba560.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Richard Frank
+  last_updated_on: 2017-01-08 18:36:51.000000000 Z
+- name: testfixtures
+  description: A collection of helpers and mock objects for unit tests and doc tests
+  package_url: https://pypi.org/project/testfixtures
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20450/default_59d62a07c53d1fab2755686ea36d4608e808dcf6.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2016-02-27 16:46:51.000000000 Z
+- name: toolz
+  description: List processing tools and functional utilities
+  package_url: https://pypi.org/project/toolz
+  version: 0.8.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20079/default_7ab6b1c940c208874d4a483f0d832c7b45b3d24e.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements.txt
+  detection_source: etc/requirements.txt
+  last_updated_by: Eddie Hebert
+  last_updated_on: 2017-01-13 20:24:26.000000000 Z
+- name: xlrd
+  description: Library for developers to extract data from Microsoft Excel
+  package_url: https://pypi.org/project/xlrd
+  version: 0.9.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20182/default_3d320a0aa731f16ceb0e7b6999ca7f7cd784aee2.png
+  detection_source_url: https://github.com/ashellwig/zipline/blob/master/etc/requirements_dev.txt
+  detection_source: etc/requirements_dev.txt
+  last_updated_by: Jonathan Kamens
+  last_updated_on: 2015-07-24 16:28:12.000000000 Z
